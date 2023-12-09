@@ -1,3 +1,4 @@
+![github](https://github.com/lailaafrin/lailaafrin/assets/114878984/99490209-3df2-48c4-b8c3-1f9b1550cef2)
 ### Hi there 👋
 
 <!--
