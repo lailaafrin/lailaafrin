@@ -22,7 +22,7 @@
 ## 1. project
 - [Live Demo](https://tour-as-12.web.app/)
 ## 2.Project
-- [Live Demo](https://mongo-as10.web.app/)
+- [Live Demo](https://chic-kleicha-0f917e.netlify.app/)
 
   
 <h3 align="left">GitHub stats:</h3>
